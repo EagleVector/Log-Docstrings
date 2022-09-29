@@ -1,1 +1,1 @@
-## Python Scripting and modular coding of Perceptron
+## Logging and Docstrings added to Perceptron
